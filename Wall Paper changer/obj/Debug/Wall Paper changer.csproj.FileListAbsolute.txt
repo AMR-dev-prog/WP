@@ -1,0 +1,15 @@
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall_Paper_changer.Form1.resources
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall_Paper_changer.Properties.Resources.resources
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\bin\Debug\Wall Paper changer.exe.config
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\bin\Debug\Wall Paper changer.exe
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\bin\Debug\Wall Paper changer.pdb
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.exe
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.pdb
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Interop.WMPLib.dll
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\obj\Debug\Wall Paper changer.csproj.ResolveComReference.cache
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\bin\Debug\Interop.WMPLib.dll
+C:\Users\msi\source\repos\Wall Paper changer\Wall Paper changer\bin\Debug\AxInterop.WMPLib.dll
